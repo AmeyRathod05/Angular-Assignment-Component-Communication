@@ -1,5 +1,7 @@
 # ComponentsCommunication
 
+![Screenshot 2023-07-20 at 19-33-13 ComponentsCommunication](https://github.com/AmeyRathod05/Angular-Assignment-Component-Communication/assets/127238907/9c9408ee-a7c4-4ed8-961d-b047e3d7eb2e)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
